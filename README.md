@@ -1,4 +1,3 @@
-# SpaceShoterVR
 # Asteroid VR Shooter
 
 **Unity 2021.3.x LTS**  
